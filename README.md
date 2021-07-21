@@ -1,2 +1,2 @@
-# EmojiPedia
+# EmojiPedea
 Created with CodeSandbox
